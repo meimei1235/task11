@@ -1,0 +1,22 @@
+{
+  "name": "task11",
+  "version": "1.0.0",
+  "description": "complete a command program",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "node run-tests.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/meimei1235/task11.git"
+  },
+  "author": "Wei Meili",
+  "bugs": {
+    "url": "https://github.com/meimei1235/task11/issues"
+  },
+  "devDependencies": {
+    "cli-interact" : "^0.1.9",
+    "jasmine": "^2.8.0"
+  }
+}
